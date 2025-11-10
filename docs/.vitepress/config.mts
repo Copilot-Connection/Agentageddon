@@ -12,9 +12,10 @@ export default defineConfig({
       {
         text: "Sections",
         items: [
-          { text: "Building an agent", link: "/building/" },
-          { text: "Breaking an agent", link: "/breaking/" },
-          { text: "Measuring agents", link: "/measuring/" },
+          { text: "Setting up", link: "/01 setup/" },
+          { text: "Building an agent", link: "/02 building/" },
+          { text: "Breaking an agent", link: "/03 breaking/" },
+          { text: "Measuring agents", link: "/04 measuring/" },
         ],
       },
       { text: "Resources", link: "/resources" },
@@ -24,9 +25,10 @@ export default defineConfig({
       {
         text: "Labs",
         items: [
-          { text: "Building an agent", link: "/building/" },
-          { text: "Breaking an agent", link: "/breaking/" },
-          { text: "Measuring agents", link: "/measuring/" },
+          { text: "Setting up", link: "/01 setup/" },
+          { text: "Building an agent", link: "/02 building/" },
+          { text: "Breaking an agent", link: "/03 breaking/" },
+          { text: "Measuring agents", link: "/04 measuring/" },
         ],
       },
       {

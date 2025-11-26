@@ -142,8 +142,7 @@ Steps to build:
 ![Step 45](./assets/Slide192.PNG)
 46.
 ![Step 46](./assets/Slide193.PNG)
-47.
-![Step 47](./assets/Slide194.PNG)
+47. Head back to the Tables tab, refresh and see the data added there
 
 
 

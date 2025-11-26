@@ -21,7 +21,7 @@ Steps to build:
 ![Step 3](./assets/Slide150.PNG)
 4.
 ![Step 4](./assets/Slide151.PNG)
-5. Download the sample set from <a href="/Agentageddon/assets/AgentBuildFiles.zip">Agent Build Files</a> and extract the contents somewhere on your device.
+5. Download the sample set from <a href="./assets/AgentBuildFiles.zip">Agent Build Files</a> and extract the contents somewhere on your device.
 
 6.
 ![Step 6](./assets/Slide153.PNG)

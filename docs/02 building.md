@@ -145,6 +145,3 @@ Steps to build:
 47. Head back to the Tables tab, refresh and see the data added there
 
 
-
-
-

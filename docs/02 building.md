@@ -23,7 +23,7 @@ Steps to build:
 ![Step 4](./assets/Slide151.PNG)
 5. Download the sample set below and extract the contents somewhere on your device.
 
-[Knowledge sample set](./assets/AgentBuildFiles.zip)
+[Knowledge sample set](https://github.com/Copilot-Connection/Agentageddon/raw/refs/heads/main/docs/assets/AgentBuildFiles.zip)
 
 6.
 ![Step 6](./assets/Slide153.PNG)

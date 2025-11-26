@@ -105,7 +105,7 @@ Steps to build:
 33.
 ![Step 33](./assets/Slide180.PNG)
 
-34.
+34. Create a new connection and choose OAuth for the authentication then select Add and configure. (Note that a popup will ask you to login again)
 ![Step 34](./assets/Slide181.PNG)
 
 35.

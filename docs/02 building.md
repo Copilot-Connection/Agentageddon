@@ -12,6 +12,12 @@ This agent is to work on a UFO data set.
 
 Alternative guidance on building an agent - https://microsoft.github.io/agent-academy/recruit/06-create-agent-from-conversation/
 
+Foundry labs
+[Lab 02 AI Extensibility](https://github.com/Copilot-Connection/Agentageddon/raw/refs/heads/main/docs/assets/Lab 02 AI Extensibility PDF.pdf)
+
+[Lab 03 Differential AI](https://github.com/Copilot-Connection/Agentageddon/raw/refs/heads/main/docs/assets/Lab 03 Differential AI.pdf)
+
+
 Steps to build:
 
 1. Head to https://make.powerapps.com
@@ -62,7 +68,7 @@ Steps to build:
 18.
 ![Step 18](./assets/Slide165.PNG)
 
-19.
+19. Make sure that you mark Web Search as Disabled.
 ![Step 19](./assets/Slide166.PNG)
 
 20.
@@ -98,7 +104,7 @@ Steps to build:
 30.
 ![Step 30](./assets/Slide177.PNG)
 
-31.
+31. Just before doing this, test the agent and try and log a sighting.
 ![Step 31](./assets/Slide178.PNG)
 
 32.
@@ -113,7 +119,7 @@ Steps to build:
 35.
 ![Step 35](./assets/Slide182.PNG)
 
-36.
+36. Now try and log a sighting again and see how it changed.
 ![Step 36](./assets/Slide183.PNG)
 
 37.

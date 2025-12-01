@@ -8,3 +8,7 @@ next:
 ---
 
 # Breaking your agent
+
+Read about how to do prompt injection attacks at https://www.lakera.ai/blog/guide-to-prompt-injection.
+
+Try techniques at https://gandalf.lakera.ai/agent-breaker

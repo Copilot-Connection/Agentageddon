@@ -5,6 +5,9 @@ next:
 ---
 # Setting up environment
 
+*** IGNORE THIS, YOU SHOULD HAVE GOT AN EMAIL ***
+This is plan B...
+
 ## Prerequisites
 
 - Install Microsoft Authenticator on your phone

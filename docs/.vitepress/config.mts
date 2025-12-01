@@ -14,8 +14,7 @@ export default defineConfig({
         items: [
           { text: "Setting up", link: "/01 setup/" },
           { text: "Building an agent", link: "/02 building/" },
-          { text: "Breaking an agent", link: "/03 breaking/" },
-          { text: "Measuring agents", link: "/04 measuring/" },
+          { text: "Breaking an agent", link: "/03 breaking/" }
         ],
       },
       { text: "Resources", link: "/resources" },
@@ -27,8 +26,7 @@ export default defineConfig({
         items: [
           { text: "Setting up", link: "/01 setup/" },
           { text: "Building an agent", link: "/02 building/" },
-          { text: "Breaking an agent", link: "/03 breaking/" },
-          { text: "Measuring agents", link: "/04 measuring/" },
+          { text: "Breaking an agent", link: "/03 breaking/" }
         ],
       },
       {

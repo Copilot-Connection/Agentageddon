@@ -9,6 +9,6 @@ The ESPC Workshop brought to you by Zoe, Kevin and Chris
 [Knowledge sample set](https://github.com/Copilot-Connection/Agentageddon/raw/refs/heads/main/docs/assets/AgentBuildFiles.zip)
 
 Foundry labs
-[Lab 02 AI Extensibility](https://github.com/Copilot-Connection/Agentageddon/raw/refs/heads/main/docs/assets/Lab 02 AI Extensibility PDF.pdf)
+[Lab 02 AI Extensibility](https://github.com/Copilot-Connection/Agentageddon/raw/refs/heads/main/docs/assets/Lab%2002%20AI%20Extensibility%20PDF.pdf)
 
-[Lab 03 Differential AI](https://github.com/Copilot-Connection/Agentageddon/raw/refs/heads/main/docs/assets/Lab 03 Differential AI.pdf)
+[Lab 03 Differential AI](https://github.com/Copilot-Connection/Agentageddon/raw/refs/heads/main/docs/assets/Lab%2003%20Differential%20AI.pdf)

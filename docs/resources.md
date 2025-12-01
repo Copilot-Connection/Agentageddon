@@ -16,3 +16,5 @@ Foundry labs
 [Gandalf for agents]([https://www.lakera.ai/blog/guide-to-prompt-injection](https://gandalf.lakera.ai/agent-breaker) - for practicing your Red Teaming
 
 [Guide to Prompt Injection](https://www.lakera.ai/blog/guide-to-prompt-injection)
+
+[Video on Agent 365](https://www.youtube.com/watch?v=SlKNY0Bd7iU)
